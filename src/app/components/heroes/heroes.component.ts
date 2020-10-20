@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-heroes',
   templateUrl: './heroes.component.html'
 })
+
 export class HeroesComponent implements OnInit {
 
   constructor() { }
